@@ -1,0 +1,30 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\private\\ovrlipsyncplaybackactorcomponent.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\vrpoctest\\intermediate\\build\\win64\\x64\\vrpoctesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrlipsync\\definitions.ovrlipsync.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\public\\ovrlipsyncplaybackactorcomponent.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\components\\audiocomponent.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\public\\audio\\soundparametercontrollerinterface.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\soundparametercontrollerinterface.generated.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\audioextensions\\public\\iaudioparametertransmitter.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerquantizedcommands.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\audiomixer\\public\\quartz\\audiomixerclock.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\audiomixer\\public\\quartz\\quartzmetronome.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\quartzsubscription.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\quartzsubscriptiontoken.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\engine\\classes\\sound\\quartzinterfaces.h",
+            "d:\\unrealengine\\ue_5.6\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\audiocomponent.generated.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\public\\ovrlipsyncactorcomponentbase.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\unrealeditor\\inc\\ovrlipsync\\uht\\ovrlipsyncactorcomponentbase.generated.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\public\\ovrlipsyncframe.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\unrealeditor\\inc\\ovrlipsync\\uht\\ovrlipsyncframe.generated.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\unrealeditor\\inc\\ovrlipsync\\uht\\ovrlipsyncplaybackactorcomponent.generated.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

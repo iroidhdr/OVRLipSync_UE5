@@ -1,0 +1,15 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrlipsynceditor\\module.ovrlipsynceditor.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\vrpoctest\\intermediate\\build\\win64\\x64\\vrpoctesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrlipsynceditor\\definitions.ovrlipsynceditor.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrlipsynceditor\\permoduleinline.gen.cpp",
+            "d:\\unrealengine\\ue_5.6\\engine\\source\\runtime\\core\\public\\hal\\permoduleinline.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}

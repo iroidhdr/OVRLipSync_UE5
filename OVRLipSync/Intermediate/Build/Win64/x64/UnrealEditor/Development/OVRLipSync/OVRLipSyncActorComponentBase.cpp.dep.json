@@ -1,0 +1,16 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\private\\ovrlipsyncactorcomponentbase.cpp",
+        "ProvidedModule": "",
+        "PCH": "d:\\unrealprojects\\vrpoctest\\intermediate\\build\\win64\\x64\\vrpoctesteditor\\development\\unrealed\\sharedpch.unrealed.project.valapi.valexpapi.cpp20.inclorderunreal5_3.h.pch",
+        "Includes": [
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\ovrlipsync\\definitions.ovrlipsync.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\public\\ovrlipsyncactorcomponentbase.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\intermediate\\build\\win64\\unrealeditor\\inc\\ovrlipsync\\uht\\ovrlipsyncactorcomponentbase.generated.h",
+            "d:\\unrealprojects\\vrpoctest\\plugins\\ovrlipsync\\source\\ovrlipsync\\private\\ovrlipsyncmodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
